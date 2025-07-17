@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\maste.DESKTOP-FC0LRVD\\OneDrive\\Desktop\\Blockchain based secure medical storage and sharing\\medicalrecord\\contracts\\MedicalRecord.sol": {
+      "lastModificationDate": 1744895297993,
+      "contentHash": "b68e7d221ee593f2969825dc815af74c",
+      "sourceName": "contracts/MedicalRecord.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "MedicalRecord"
+      ]
+    }
+  }
+}
